@@ -176,7 +176,7 @@ if (
 
 const resumeLinks =
     document.querySelectorAll(
-        'a[href="./assets/resume.pdf"]'
+        'a[href*="Rajat_Yadav_Resume.pdf"], a[href*="resume"]'
     );
 
 
